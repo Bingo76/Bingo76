@@ -12,4 +12,4 @@ All my projects are open source and are free software under the GPL license.
 #### 📚 Learn About Free Software:
 https://www.fsf.org/
 
-#### Please view my repositories below including my Suckless DWM and Slstatus configuration as well as my Website 
+#### Please view my repositories below including my Suckless DWM and Slstatus configuration as well as my website 
