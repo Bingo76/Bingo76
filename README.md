@@ -6,7 +6,6 @@ All my projects are open source and are free software under the GPL license.
 
 #### 📫 How to reach me: 
 --> Email at JonathanReeves@tuta.io
-(As you may guess, that is not my real name)
 
 #### 📚 Learn About Free Software:
 --> https://www.fsf.org/
