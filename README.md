@@ -2,7 +2,7 @@
 All my projects are open source and are free software under the GPL license - not including forks of other software.
 
 #### ⭐ Who am I?:
---> Hello I am Mike Smith and I am a Free Software Advocate and programmer. 
+--> Hello I am Mike and I am a Free Software Advocate and programmer. 
 
 #### 📫 How to reach me: 
 --> Email at miikesmith@tuta.io
