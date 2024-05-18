@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bingo76 Bingo76</h1>
+<h1 align="center">Hi 👋, I'm Bingo76</h1>
 <h3 align="center">Welcome to my profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
 
