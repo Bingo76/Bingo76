@@ -26,7 +26,4 @@
 <a href="https://github.com/Bingo76">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bingo76&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bingo76&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bingo76&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bingo76&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bingo76&theme=2077" height="180em" />
 </div>
