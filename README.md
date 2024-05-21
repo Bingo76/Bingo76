@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bingo76</h1>
+ 
+<h1 align="center">Hi 👋, I'm Bingo76 Bingo76</h1>
 <h3 align="center">Welcome to my profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
+
 
 
 - 🌱 I’m currently learning **Java and C**
@@ -23,8 +25,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingo76&layout=compact&theme=algolia" alt=Bingo76 />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingo76&layout=compact&theme=midnight-purple" alt=Bingo76 />
-<a href="https://github.com/Bingo76">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bingo76&theme=midnight_purple" height="180em" />
-</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
