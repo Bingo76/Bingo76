@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Bingo76</h1>
 <h3 align="center">Welcome to my profile!</h3>
 </div><h3 align="left">About Me:</h3>
+- 🌱 I’m currently learning **Java and C**
+- ⚡ I'm an aspiring software eningeer and programmer.
+- 📫 How to reach me **miikesmith@tuta.io**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
 
-- 🌱 I’m currently learning **Java and C**
-- 💬 Ask me about **Linux, Bash and Java**
-- 📫 How to reach me **miikesmith@tuta.io**
+
 
 <div> <a href="https://github.com/Bingo76" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:miikesmith@tuta.io"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
