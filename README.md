@@ -23,8 +23,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingo76&layout=compact&theme=midnight-purple" alt=Bingo76 />
-<div align="center">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingo76&layout=compact&theme=midnight-purple" alt=Bingo76 />
 <a href="https://github.com/Bingo76">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bingo76&theme=midnight_purple" height="180em" />
 </div>
