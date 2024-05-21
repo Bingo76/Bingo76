@@ -2,7 +2,6 @@
 <h3 align="center">Welcome to my profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bingo76&theme=" alt="Bingo76" /></a> </p>
 
 - 🌱 I’m currently learning **Java and C**
 - 💬 Ask me about **Linux, Bash and Java**
