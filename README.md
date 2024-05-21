@@ -1,6 +1,8 @@
-<h1 align="center">Hello 👋, I'm Bingo76</h1>
-<h3 align="center">Welcome to my GitHub profile</h3>
+<h1 align="center">Hi 👋, I'm Bingo76 Bingo76</h1>
+<h3 align="center">Welcome to my profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bingo76&theme=" alt="Bingo76" /></a> </p>
 
 - 🌱 I’m currently learning **Java and C**
 - 💬 Ask me about **Linux, Bash and Java**
@@ -21,9 +23,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingo76&layout=compact&theme=midnight-purple" alt=Bingo76 />
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Bingo76">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bingo76&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bingo76&theme=dracula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bingo76&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bingo76&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bingo76&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bingo76&theme=midnight_purple" height="180em" />
 </div>
