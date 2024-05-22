@@ -28,8 +28,12 @@
 </p>
 
 <h3 align="left">Statistics:</h3>
+
 ![](https://raw.githubusercontent.com/Bingo76/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Bingo76/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Bingo76/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Bingo76/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
