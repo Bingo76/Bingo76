@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java and C**
 - ⚡I'm an aspiring **software eningeer and programmer**
 - 📫 How to reach me **miikesmith@tuta.io**
-- 🌎 Visit my website at **https://Bingo76.me**
+- 🌎 Visit my website at **https://bingo76.me**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
 
