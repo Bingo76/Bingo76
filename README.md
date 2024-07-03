@@ -3,7 +3,7 @@
 </div><h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **Java and C**
-- 💭 Ask me about **Linux, Window Managers and Compositing**
+- 💭 Ask me about **Linux, Window Managers and Compositors**
 - ⚡I'm an aspiring **software eningeer and programmer**
 - 📫 How to reach me **miikesmith@tuta.io**
 - 🌎 Visit my website at **https://bingo76.me**
