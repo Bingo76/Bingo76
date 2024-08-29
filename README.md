@@ -2,10 +2,6 @@
 <h3 align="center">Welcome to my profile!</h3>
 </div><h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **Java and C**
-- 💭 Ask me about **Linux, Window Managers and Compositors**
-- ⚡I'm an aspiring **software eningeer and programmer**
-- 📫 How to reach me **miikesmith@tuta.io**
 - 🌎 Visit my website at **https://bingo76.me**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bingo76&label=Profile%20views&color=0e75b6&style=flat" alt="Bingo76" /> </p>
